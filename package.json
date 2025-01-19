@@ -2,6 +2,7 @@
   "name": "fastify-api",
   "version": "1.0.0",
   "description": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "build": "tsc -p tsconfig.json"
